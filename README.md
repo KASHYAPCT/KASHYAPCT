@@ -6,6 +6,7 @@
 - 💬 Ask me about **python,Django**
 
 - 📫 How to reach me **kashyapchandran38@gmail.com**
+<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="typescript">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
