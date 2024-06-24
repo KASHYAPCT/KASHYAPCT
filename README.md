@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kashyapchandran</h1>
+<h1 align="center">Hi 👋, I'm kashyap C T</h1>
 <h3 align="center">A passionate python fullstack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
