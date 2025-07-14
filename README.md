@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kashyap C T</h1>
 <h3 align="center">A passionate python fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **REST API**
+- 🌱 I know about **REST API**
 
 - 💬 Ask me about **python,Django**
 
